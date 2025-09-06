@@ -1,0 +1,10 @@
+- localimage:
+    song: morefire
+    id: cover
+    label: Cover
+    published-date: 2025-07-22
+    source:
+      description: YouTube
+      url: https://music.youtube.com/watch?v=NnWmg9gH6Lk
+    part-of:
+      song: morefire

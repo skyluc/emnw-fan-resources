@@ -1,0 +1,9 @@
+song:
+  id: morefire
+  fullname: More Fire
+  release-date: 2025-07-22
+  cover-image:
+    localimage:
+      song: morefire
+      id: cover
+  
