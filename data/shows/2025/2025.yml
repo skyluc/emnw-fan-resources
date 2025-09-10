@@ -1,0 +1,5 @@
+group:
+  id: 2025
+  label: 2025 shows
+  part-of:
+    group: shows

@@ -6,4 +6,6 @@ song:
     localimage:
       song: morefire
       id: cover
+  part-of:
+    group: songs
   
