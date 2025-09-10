@@ -10,13 +10,12 @@
     id: 1946973610058584452
     account: emnw_official
     label: Announcement
-    todo: create show, create postximage
     published-date: 2025-07-20
     text: |-
       🚨えむにゅーLIVE情報⚒️
-
+      
       “Shoutin’ Chrysanthemums”
-
+      
       2025.9.9(火)
       OPEN 18:30／START 19:00
       📍下北沢CLUB Que
@@ -24,21 +23,22 @@
       ￥3,500 [+1D]
       Que店頭 [16:00～21:00] 7/21～
       LivePocket
-
+      
       w /
       TEARS OF THE REBEL
       MAX’N
-
+      
       詳しくはこちら！
       http://clubque.net/schedule/11219/
-
+      
       #EMNW #えむにゅー
     image:
     - GwUKLOJWIAAXkBs
+    todo: create show, create postximage
     part-of:
       group:
         id: announcement
-        show: 
+        show:
           year: 2025
           id: shoutinchrysanthenums
 
@@ -46,12 +46,12 @@
     post: 1946973610058584452
     id: GwUKLOJWIAAXkBs
     label: Flyer
-    local-copy: true
     published-date: 2025-07-20
-    part-of:
-      postx: 1946973610058584452
+    local-copy: true
     context:
     - show:
         year: 2025
         id: shoutinchrysanthenums
+    part-of:
+      postx: 1946973610058584452
 

@@ -1,12 +1,12 @@
 show:
   year: 2025
   id: shoutinchrysanthenums
-  fullname: Shoutin’ Chrysanthemums
-  date: 2025-09-09
   cover-image:
     postximage:
       post: 1946973610058584452
       image: GwUKLOJWIAAXkBs
+  fullname: Shoutin’ Chrysanthemums
+  date: 2025-09-09
   location: CLUB Que Shimokitazawa, Tokyo
   part-of:
     group:
