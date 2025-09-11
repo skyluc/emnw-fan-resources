@@ -9,12 +9,8 @@ object Site {
 
   val MISSING_URL = Url("/")
   val MISSING_IMAGE_URL = Url(
-    Path("asset", "image", "site", "patronus-fox-670.png")
+    Path("asset", "image", "site", "logo-ph.png")
   )
   val MISSING_IMAGE = LocalImageCopyCompiledData(MISSING_IMAGE_URL, Common.MISSING)
 
-  // val DEFAULT_COVER_IMAGE = LocalImageCopyCompiledData(
-  //   MISSING_IMAGE_URL,
-  //   "BABYMETAL fan resources logo",
-  // )
 }
