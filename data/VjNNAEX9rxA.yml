@@ -1,6 +1,21 @@
-youtubeshort:
-  id: VjNNAEX9rxA
-  label: Live
-  info: ''
-  published-date: 2025-07-02
-  todo: link to song, link to show, and as part-of
+- youtubeshort:
+    id: VjNNAEX9rxA
+    label: Live
+    info: ''
+    published-date: 2025-07-02
+    todo: link to song, link to show, and as part-of. check if live audio
+
+- postx:
+    id: 1940364681522434364
+    account: emnw_official
+    label: at some show
+    published-date: 2025-07-02
+    text: |-
+      Keep on Rollin’ Wednesday🚘
+      #rapmetal #numetal #limpbizkit #rollin
+    todo: fix label
+    part-of:
+      youtubeshort: VjNNAEX9rxA
+    reference:
+    - youtubeshort: VjNNAEX9rxA
+

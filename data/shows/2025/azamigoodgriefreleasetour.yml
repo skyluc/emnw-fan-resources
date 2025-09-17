@@ -1,0 +1,79 @@
+- group:
+    id: azamigoodgriefreleasetour
+    label: Azami / Good Grief release tour
+    part-of:
+      group:
+        id: 2025
+        group: shows
+
+- postx:
+    id: 1940714333748842669
+    account: emnw_official
+    label: Announcement
+    published-date: 2025-07-03
+    text: |-
+      🚨えむにゅーLIVE情報⚒️
+      
+      Azami : “遥か”TOUR 2025
+      Good Grief : “SS2: DEAR PASSENGERS TOUR 2025”
+      
+      【CD-HEADLINER RELEASE TOUR 2025】
+      
+      2025.9.25(木)📍京都MUSE
+      2025.9.27(土)📍広島ALMIGHTY
+      2025.9.28(日)📍福岡OP’s
+      
+      🎟️オフィシャル最終先行(先着)
+      https://w.pia.jp/t/goodgrief-azami/
+      
+      #EMNW #えむにゅー
+    image:
+    - Gu7NZYNWYAAugsA
+    todo: link images, link show
+    part-of:
+      group:
+        id: azamigoodgriefreleasetour
+        group:
+          id: 2025
+          group: shows
+
+- postximage:
+    post: 1940714333748842669
+    id: Gu7NZYIWIAAC5HF
+    label: Poster
+    info: ''
+    published-date: 2025-07-03
+    todo: add show context
+    part-of:
+      postx: 1940714333748842669
+
+- postximage:
+    post: 1940714333748842669
+    id: Gu7NZYNWYAAugsA
+    label: Tour Poster
+    info: ''
+    published-date: 2025-07-03
+    todo: add shows context
+    part-of:
+      postx: 1940714333748842669
+
+- postximage:
+    post: 1940714333748842669
+    id: Gu7NZYQWgAABIbM
+    label: Poster
+    info: ''
+    published-date: 2025-07-03
+    todo: add show context
+    part-of:
+      postx: 1940714333748842669
+
+- postximage:
+    post: 1940714333748842669
+    id: Gu7NZYOW4AE40ty
+    label: Poster
+    info: ''
+    published-date: 2025-07-03
+    todo: add show context
+    part-of:
+      postx: 1940714333748842669
+
