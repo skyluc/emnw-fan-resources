@@ -1,3 +1,15 @@
 :root {
+  --color-text: black;
   --color-text-red: #bf9a15;
+
+  --color-bg: #b0b0b0;
+  --color-bg2: #d0d0d0;
+
+  --gradient-page: repeating-linear-gradient(170deg,
+      var(--color-bg) 0,
+      var(--color-bg) 10vh,
+      var(--color-bg2) 50vh,
+      var(--color-bg2) 70vh,
+      var(--color-bg) 110vh,
+      var(--color-bg) 120vh);
 }

@@ -17,7 +17,7 @@ body {
   font-size: 1rem;
   line-height: 1rem;
   color: var(--color-text);
-  background-color: var(--color-almost-black);
+  background-color: var(--color-bg);
   background: var(--gradient-page);
 }
 
