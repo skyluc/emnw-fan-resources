@@ -1,0 +1,19 @@
+show:
+  year: 2025
+  id: azamigoodgriefreleasetourkyoto
+  cover-image:
+    postximage:
+      post: 1940714333748842669
+      image: Gu7NZYOW4AE40ty
+  fullname: Azami/Good Grief【CO-HEADLINER RELEASE TOUR 2025】
+  shortname: Azami/Good Grief
+  sublabel: Kyoto
+  date: 2025-09-25
+  venue: 京都 MUSE, Kyoto
+  event-page: 'https://w.pia.jp/t/goodgrief-azami/'
+  part-of:
+    group:
+      id: azamigoodgriefreleasetour
+      group:
+        id: 2025
+        group: shows

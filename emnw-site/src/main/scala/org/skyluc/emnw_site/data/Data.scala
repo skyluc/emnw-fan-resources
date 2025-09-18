@@ -2,6 +2,7 @@ package org.skyluc.emnw_site.data
 
 import org.skyluc.emnw_site.data.checks.LocalAssetExistsChecker
 import org.skyluc.fan_resources.data as fr
+import org.skyluc.reference.html.edit.EditSupportContext
 
 import fr.op.ImplicitDatumExpander
 import fr.Path
@@ -27,5 +28,7 @@ object Data {
     ReferencesChecker(ReferencesCheckProcessorBuilder()),
     LocalAssetExistsChecker(staticFolderPath),
   )
+
+  def editSupportContext = new EditSupportContext() {}
 
 }

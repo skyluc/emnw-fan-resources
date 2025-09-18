@@ -1,0 +1,19 @@
+show:
+  year: 2025
+  id: azamigoodgriefreleasetourhiroshima
+  cover-image:
+    postximage:
+      post: 1940714333748842669
+      image: Gu7NZYIWIAAC5HF
+  fullname: Azami/Good Grief【CO-HEADLINER RELEASE TOUR 2025】
+  shortname: Azami/Good Grief
+  sublabel: Hiroshima
+  date: 2025-09-27
+  venue: 広島ALMIGHTY, Hiroshima
+  event-page: 'https://w.pia.jp/t/goodgrief-azami/'
+  part-of:
+    group:
+      id: azamigoodgriefreleasetour
+      group:
+        id: 2025
+        group: shows

@@ -29,6 +29,9 @@
       #EMNW #えむにゅー
     image:
     - Gu7NZYNWYAAugsA
+    - Gu7NZYIWIAAC5HF
+    - Gu7NZYOW4AE40ty
+    - Gu7NZYQWgAABIbM
     todo: link images, link show
     part-of:
       group:
@@ -43,6 +46,18 @@
     label: Poster
     info: ''
     published-date: 2025-07-03
+    local-copy: true
+    todo: add show context
+    part-of:
+      postx: 1940714333748842669
+
+- postximage:
+    post: 1940714333748842669
+    id: Gu7NZYQWgAABIbM
+    label: Poster
+    info: ''
+    published-date: 2025-07-03
+    local-copy: true
     todo: add show context
     part-of:
       postx: 1940714333748842669
@@ -59,20 +74,11 @@
 
 - postximage:
     post: 1940714333748842669
-    id: Gu7NZYQWgAABIbM
-    label: Poster
-    info: ''
-    published-date: 2025-07-03
-    todo: add show context
-    part-of:
-      postx: 1940714333748842669
-
-- postximage:
-    post: 1940714333748842669
     id: Gu7NZYOW4AE40ty
     label: Poster
     info: ''
     published-date: 2025-07-03
+    local-copy: true
     todo: add show context
     part-of:
       postx: 1940714333748842669

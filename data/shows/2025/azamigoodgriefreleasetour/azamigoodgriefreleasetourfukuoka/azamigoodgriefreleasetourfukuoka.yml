@@ -1,0 +1,19 @@
+show:
+  year: 2025
+  id: azamigoodgriefreleasetourfukuoka
+  cover-image:
+    postximage:
+      post: 1940714333748842669
+      image: Gu7NZYQWgAABIbM
+  fullname: Azami/Good Grief【CO-HEADLINER RELEASE TOUR 2025】
+  shortname: Azami/Good Grief
+  sublabel: Fukuoka
+  date: 2025-09-28
+  venue: 福岡OP’s, Fukuoka
+  event-page: 'https://w.pia.jp/t/goodgrief-azami/'
+  part-of:
+    group:
+      id: azamigoodgriefreleasetour
+      group:
+        id: 2025
+        group: shows
