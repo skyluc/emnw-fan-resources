@@ -29,6 +29,6 @@ object Data {
     LocalAssetExistsChecker(staticFolderPath),
   )
 
-  def editSupportContext = new EditSupportContext() {}
+  val editSupportContext = new EditSupportContext {}
 
 }

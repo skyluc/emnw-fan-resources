@@ -32,7 +32,6 @@
     - Gu7NZYIWIAAC5HF
     - Gu7NZYOW4AE40ty
     - Gu7NZYQWgAABIbM
-    todo: link images, link show
     part-of:
       group:
         id: azamigoodgriefreleasetour
@@ -44,10 +43,12 @@
     post: 1940714333748842669
     id: Gu7NZYIWIAAC5HF
     label: Poster
-    info: ''
     published-date: 2025-07-03
     local-copy: true
-    todo: add show context
+    context:
+    - show:
+        year: 2025
+        id: azamigoodgriefreleasetourhiroshima
     part-of:
       postx: 1940714333748842669
 
@@ -55,10 +56,12 @@
     post: 1940714333748842669
     id: Gu7NZYQWgAABIbM
     label: Poster
-    info: ''
     published-date: 2025-07-03
     local-copy: true
-    todo: add show context
+    context:
+    - show:
+        year: 2025
+        id: azamigoodgriefreleasetourfukuoka
     part-of:
       postx: 1940714333748842669
 
@@ -66,7 +69,6 @@
     post: 1940714333748842669
     id: Gu7NZYNWYAAugsA
     label: Tour Poster
-    info: ''
     published-date: 2025-07-03
     todo: add shows context
     part-of:
@@ -76,10 +78,12 @@
     post: 1940714333748842669
     id: Gu7NZYOW4AE40ty
     label: Poster
-    info: ''
     published-date: 2025-07-03
     local-copy: true
-    todo: add show context
+    context:
+    - show:
+        year: 2025
+        id: azamigoodgriefreleasetourkyoto
     part-of:
       postx: 1940714333748842669
 
