@@ -6,5 +6,15 @@ song:
       id: cover
   fullname: More Fire
   release-date: 2025-07-22
+  lyricist:
+    value: EMNW
+    source:
+      description: 'JASRAC - work ID: 325-2848-5'
+      url: 'https://www2.jasrac.or.jp/'
+  composer:
+    value: EMNW
+    source:
+      description: 'JASRAC - work ID: 325-2848-5'
+      url: 'https://www2.jasrac.or.jp/'
   part-of:
     group: songs

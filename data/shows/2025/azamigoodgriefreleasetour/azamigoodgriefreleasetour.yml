@@ -54,19 +54,6 @@
 
 - postximage:
     post: 1940714333748842669
-    id: Gu7NZYQWgAABIbM
-    label: Poster
-    published-date: 2025-07-03
-    local-copy: true
-    context:
-    - show:
-        year: 2025
-        id: azamigoodgriefreleasetourfukuoka
-    part-of:
-      postx: 1940714333748842669
-
-- postximage:
-    post: 1940714333748842669
     id: Gu7NZYNWYAAugsA
     label: Tour Poster
     published-date: 2025-07-03
@@ -84,6 +71,19 @@
     - show:
         year: 2025
         id: azamigoodgriefreleasetourkyoto
+    part-of:
+      postx: 1940714333748842669
+
+- postximage:
+    post: 1940714333748842669
+    id: Gu7NZYQWgAABIbM
+    label: Poster
+    published-date: 2025-07-03
+    local-copy: true
+    context:
+    - show:
+        year: 2025
+        id: azamigoodgriefreleasetourfukuoka
     part-of:
       postx: 1940714333748842669
 
