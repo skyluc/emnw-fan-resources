@@ -1,0 +1,32 @@
+- postx:
+    id: 1940742512928575538
+    account: SiM_Official
+    label: Announcement
+    published-date: 2025-07-03
+    text: |-
+      【WiLDCARD VOL.1】
+      2025年8月5日(火) Spotify O-EAST
+      
+      GUEST BANDに、
+      Paledusk(
+      @Paledusk_jpn
+       )の緊急参戦が決定！
+      
+      #SiMWiLDCARD
+    image:
+    - Gu7nBiUXUAAfrzo
+    todo: link to show
+    part-of:
+      show:
+        year: 2025
+        id: wildcardvol1
+
+- postximage:
+    post: 1940742512928575538
+    id: Gu7nBiUXUAAfrzo
+    label: Poster
+    published-date: 2025-07-03
+    local-copy: true
+    part-of:
+      postx: 1940742512928575538
+

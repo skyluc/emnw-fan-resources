@@ -1,0 +1,8 @@
+group:
+  id: shimokitkafes
+  label: フラフラ下北沢 - Wandering around Shimokitazawa
+  todo: Replace by actual show element
+  part-of:
+    group:
+      id: 2025
+      group: shows

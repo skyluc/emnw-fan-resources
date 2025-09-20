@@ -1,0 +1,16 @@
+show:
+  year: 2025
+  id: wildcardvol1
+  cover-image:
+    postximage:
+      post: 1940742512928575538
+      image: Gu7nBiUXUAAfrzo
+  fullname: WiLDCARD VOL.1
+  sublabel: SiM
+  date: 2025-08-05
+  venue: Spotify O-EAST, Tokyo
+  event-page: 'https://sxixm.com/live_information/detail/607'
+  part-of:
+    group:
+      id: 2025
+      group: shows
