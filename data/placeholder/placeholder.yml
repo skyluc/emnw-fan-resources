@@ -1,10 +1,8 @@
-show:
-  year: 2020
+event:
   id: placeholder
+  label: Placeholder for base images
+  date: 1900-01-01
   cover-image:
-    postximage:
-      post: 1946973610058584452
-      image: GwUKLOJWIAAXkBs
-  fullname: Placeholder for basic images
-  date: 2020-01-01
-  todo: replace by an Event placeholder
+    localimage:
+      event: placeholder
+      id: efrlogo

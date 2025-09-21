@@ -1,13 +1,9 @@
 localimage:
-  show:
-    year: 2020
-    id: placeholder
+  event: placeholder
   id: efrlogo
   label: Logo
   published-date: 2025-09-01
   source:
     description: Created for the site
   part-of:
-    show:
-      year: 2020
-      id: placeholder
+    event: placeholder
