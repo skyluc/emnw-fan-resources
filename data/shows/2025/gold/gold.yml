@@ -1,0 +1,15 @@
+show:
+  year: 2025
+  id: gold
+  cover-image:
+    postximage:
+      post: 1941372546009661949
+      image: GvEkBhmWMAAKbnl
+  fullname: GOLD
+  date: 2025-08-30
+  venue: 吉祥寺SEATA
+  event-page: 'https://www.bandsintown.com/e/107096366-emnw-at-club-seata?came_from=251&utm_medium=web&utm_source=artist_page&utm_campaign=event'
+  part-of:
+    group:
+      id: 2025
+      group: shows

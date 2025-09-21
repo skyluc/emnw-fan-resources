@@ -1,0 +1,78 @@
+- postx:
+    id: 1940969201742885294
+    account: emnw_official
+    label: Announcement
+    published-date: 2025-07-04
+    text: |-
+      🚨出演決定🚀
+      
+      ／
+       FUJI ROCK FESTIVAL ’25
+      ＼
+      
+      🗓️7/25(金)~7/27(日)
+      📍新潟県湯沢町苗場スキー場
+      
+      EMNWは7/26(土)、ROOKIE A GO-GOステージに出演します🔥
+      ぶちかますぜ👊
+      
+      http://fujirockfestival.com
+      
+      #EMNW #えむにゅー #フジロック #fujirock
+    image:
+    - Gu-1Moub0AAjkUk
+    part-of:
+      show:
+        year: 2025
+        id: fujirockfestival
+
+- postx:
+    id: 1940999011399356654
+    account: fujirock_jp
+    label: ROOKIE A GO-GO bands announcement
+    published-date: 2025-07-04
+    text: |-
+      ⚡️🎸┈┈┈┈┈┈┈┈┈
+      　 ROOKIE A GO-GO
+        　  出 演 者 決 定 !!
+      ┈┈┈┈┈┈┈┈┈🥁🔥
+      
+      約3,500組の応募の中から
+      今年苗場への切符を勝ち取った
+      新進気鋭のルーキーはこの16組‼︎
+      
+      🎧詳細＆試聴はコチラから⬇︎
+      https://fujirockfestival.com/news/pickup04
+      
+      全国各地からたくさんのご応募
+      ありがとうございました🙏
+      #フジロック #RookieaGoGo
+    image:
+    - Gu_Oj5CXQAAejVa
+    part-of:
+      show:
+        year: 2025
+        id: fujirockfestival
+
+- postximage:
+    post: 1940969201742885294
+    id: Gu-1Moub0AAjkUk
+    label: Poster
+    published-date: 2025-07-03
+    local-copy: true
+    context:
+    - show:
+        year: 2025
+        id: fujirockfestival
+    part-of:
+      postx: 1940969201742885294
+
+- postximage:
+    post: 1940999011399356654
+    id: Gu_Oj5CXQAAejVa
+    label: Bands
+    info: on the ROOKIE A GO-GO stage
+    published-date: 2025-07-04
+    part-of:
+      postx: 1940999011399356654
+

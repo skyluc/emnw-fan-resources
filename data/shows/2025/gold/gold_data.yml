@@ -1,0 +1,40 @@
+- postx:
+    id: 1941372546009661949
+    account: emnw_official
+    label: Announcement
+    published-date: 2025-07-05
+    text: |-
+      🚨えむにゅーLIVE情報⚒️
+      
+      "GOLD"
+      
+      2025.8.30(土)
+      OPEN 12:30 / START 13:00
+      📍吉祥寺SEATA
+      🎟️チケット
+      前売 ¥3,500 / 当日 ¥4,500(各＋1D)
+      
+      w /
+      Bray me
+      月追う彼方
+      
+      チケットはこちら↓
+      http://tiget.net/events/413370
+      
+      #EMNW #えむにゅー
+    image:
+    - GvEkBhmWMAAKbnl
+    part-of:
+      show:
+        year: 2025
+        id: gold
+
+- postximage:
+    post: 1941372546009661949
+    id: GvEkBhmWMAAKbnl
+    label: Poster
+    published-date: 2025-07-05
+    local-copy: true
+    part-of:
+      postx: 1941372546009661949
+

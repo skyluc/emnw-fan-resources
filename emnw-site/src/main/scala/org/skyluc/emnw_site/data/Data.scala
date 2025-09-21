@@ -4,11 +4,11 @@ import org.skyluc.emnw_site.data.checks.LocalAssetExistsChecker
 import org.skyluc.fan_resources.data as fr
 import org.skyluc.reference.html.edit.EditSupportContext
 
-import fr.op.ImplicitDatumExpander
 import fr.Path
 import fr.checks.DataCheck
 import fr.checks.ReferencesChecker
 import fr.checks.ReferencesCheckProcessorBuilder
+import fr.op.ImplicitDatumExpanderProcessor
 
 object Data {
 
@@ -19,7 +19,13 @@ object Data {
 
   }
 
-  val defaultExpanders = fr.op.DataLoader.defaultExpanders(fr.op.ImplicitDatumExpander())
+  val implicitDataExpander = new fr.op.ImplicitDataExpander {
+
+    override val expanderProcessor: ImplicitDatumExpanderProcessor = fr.op.ImplicitDatumExpanderProcessor()
+
+  }
+
+  val defaultExpanders = fr.op.DataLoader.defaultExpanders(implicitDataExpander)
 
   val defaultPopulaters =
     fr.op.DataLoader.defaultPopulaters(fr.op.MultimediaExtraPopulater(fr.op.MultimediaExtraProcessBuilder()))

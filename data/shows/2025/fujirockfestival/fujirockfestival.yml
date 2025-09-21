@@ -1,0 +1,16 @@
+show:
+  year: 2025
+  id: fujirockfestival
+  cover-image:
+    postximage:
+      post: 1940969201742885294
+      image: Gu-1Moub0AAjkUk
+  fullname: FUJI ROCK FESTIVAL'25
+  date: 2025-07-26
+  venue: Naeba Sky Resort
+  event-page: 'https://fujirockfestival.com/'
+  todo: poster as cover image
+  part-of:
+    group:
+      id: 2025
+      group: shows
