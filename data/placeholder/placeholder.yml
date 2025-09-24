@@ -1,8 +1,8 @@
 event:
   id: placeholder
-  label: Placeholder for base images
-  date: 1900-01-01
   cover-image:
     localimage:
       event: placeholder
       id: efrlogo
+  label: Placeholder for base images
+  date: 1900-01-01

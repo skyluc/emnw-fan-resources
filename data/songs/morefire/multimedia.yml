@@ -17,3 +17,14 @@
         id: multimedia
         song: morefire
 
+- youtubevideo:
+    id: zRaWLBLhV64
+    label: Music Video
+    published-date: 2025-07-22
+    context:
+    - song: morefire
+    part-of:
+      group:
+        id: multimedia
+        song: morefire
+
